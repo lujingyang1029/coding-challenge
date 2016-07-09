@@ -1,0 +1,3 @@
+Main-Class: median_degree
+Class-Path: json-simple-1.1.1.jar
+
